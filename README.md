@@ -47,8 +47,3 @@ A. Data preparation
 B. Train ResNet
   - Run `ResNet/3_train.py` and specify options (e.g. number of layers) in `ResNet/config.py`
   - Models will be saved in `ResNet/checkpoints/`
-  
-### 4. Testing ResNet
-A. Prepare folder
-  - Place testing folders for each class in a folder of the same class name (e.g. `testing/class1/class1/` and 
-    `testing/class2/class2`)
