@@ -47,3 +47,9 @@ A. Data preparation
 B. Train ResNet
   - Run `ResNet/3_train.py` and specify options (e.g. number of layers) in `ResNet/config.py`
   - Models will be saved in `ResNet/checkpoints/`
+
+
+# Citations
+DifficultyTranslation is an open-source library and is licensed under the GNU General Public License (v3). For questions contact Saeed Hassanpour at Saeed.Hassanpour@dartmouth.edu. If you are using this library please cite:
+
+```Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, Jason Wei, and Saeed Hassanpour. "Difficulty Translation in Histopathology Images", Full Paper at Artificial Intelligence in Medicine (AIME), In Press, 2020.```
